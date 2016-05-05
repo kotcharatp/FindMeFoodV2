@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FindMeFoodV2</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search_for_food">SearchForFood</string>
+    <string name="title_activity_random_location">RandomLocation</string>
+    <string name="title_activity_restaurant_info">RestaurantInfo</string>
+
+    <string name="ChooseArea">Choose Area</string>
+    <string name="ChooseLocation">Choose Location</string>
+    <string name="ChooseNation">Choose Food Nation</string>
+
+    <string-array name="areaList">
+        <item>Inside MU</item>
+        <item>Outside MU</item>
+    </string-array>
+
+    <string-array name="InsideList">
+        <item>IC Building</item>
+        <item>Social Science Building</item>
+    </string-array>
+
+    <string-array name="OutsideList">
+        <item>In Front of MU</item>
+        <item>Central Salaya</item>
+        <item>Lotus Salaya</item>
+        <item>Ratchapruk</item>
+    </string-array>
+
+    <string-array name="nationList">
+        <item>Thai</item>
+        <item>Japanese</item>
+        <item>Multination</item>
+    </string-array>
+    <string name="title_activity_restaurant_list">RestaurantList</string>
+    <string name="title_activity_map_location">Map</string>
+
+</resources>
